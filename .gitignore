@@ -1,0 +1,22 @@
+#Test#
+01.Java/
+
+
+
+
+#package Files#
+*.jar
+*.war
+*.ear
+*.db
+
+#Eclipse#
+/.classpath
+/.project
+/.mvn
+/target
+*.md
+/mvnw
+*.cmd
+.settings/
+*.log
