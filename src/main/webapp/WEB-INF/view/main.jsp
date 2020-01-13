@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-메인화면_젠킨스33
+메인화면_젠킨스4
 </body>
 </html>
